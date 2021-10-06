@@ -2,7 +2,7 @@ package lru
 
 import (
 	"fmt"
-	simplelru2 "patiencedesert/bromel/xhashicorplru/simplelru"
+	simplelru2 "github.com/phuhao00/bromel/xhashicorplru/simplelru"
 	"sync"
 )
 
