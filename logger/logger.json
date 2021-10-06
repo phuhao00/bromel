@@ -1,0 +1,16 @@
+{
+  "level": "info",
+  "development": true,
+  "disableCaller": false,
+  "disableStacktrace": false,
+  "encoding": "json",
+  "outputPaths": [
+    "./log_info"
+  ],
+  "errorOutputPaths": [
+    "stderr"
+  ],
+  "initialFields": {
+    "": ""
+  }
+}
