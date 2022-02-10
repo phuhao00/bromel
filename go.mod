@@ -15,6 +15,7 @@ require (
 	github.com/hashicorp/consul/api v1.11.0
 	github.com/json-iterator/go v1.1.12
 	github.com/magicsea/behavior3go v0.0.0-20201106103304-15430dcfecd8
+	github.com/moby/locker v1.0.1
 	github.com/nsqio/go-nsq v1.0.8
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/panjf2000/ants/v2 v2.4.6
